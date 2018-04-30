@@ -10,3 +10,7 @@ Please refer to Geoffrey E Hinton's original paper [Dynamic Routing Between Caps
 
 # Architecture
 ![architecture](architecture.jpg)
+
+# Demo
+This project also contains a demo website that classifies any overlapping digit image you upload
+![demo](demo_py.png)
