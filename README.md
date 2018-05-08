@@ -15,6 +15,9 @@ Please refer to Geoffrey E Hinton's original paper [Dynamic Routing Between Caps
 This project also contains a demo website that classifies any overlapping digit image you upload
 ![demo](demo_py.png)
 
+# Paper
+You can find the pdf file of our final paper [here](./Paper/finalpaper.pdf)
+
 # Reference
 - M. Abadi, A. Agarwal, and et al. Tensorflow: Large-scale machine learning on heterogeneous distributed systems. 2016.
 - J. Ba, V. Mnih, and K. Kavukcuoglu. Multiple object recognition with visual attention. 2014.
